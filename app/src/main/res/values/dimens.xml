@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeLarge">22sp</dimen>
+    <dimen name="textSizeSmall">18sp</dimen>
+    <dimen name="cardElevation">5dp</dimen>
+    <dimen name="cornerRadius">5dp</dimen>
+    <dimen name="cardMargin">10dp</dimen>
+    <dimen name="txtPadding">5dp</dimen>
+    <dimen name="ImageHeight">220dp</dimen>
+    <dimen name="gameImageMargin">10dp</dimen>
+    <dimen name="itemPadding">15dp</dimen>
+    <dimen name="detailsMargin">20dp</dimen>
+    <dimen name="textSizeDetails">20sp</dimen>
+</resources>
