@@ -43,6 +43,3 @@ Open terminal and type the below command to generate release build <br/>
 ## Test cases
 
 see android test and test packages
-
-## Suggestions
-we must use pagination since the data rows are larger
