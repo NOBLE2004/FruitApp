@@ -1,4 +1,4 @@
-package com.android.nasaapp
+package com.android.fruitlistapplication
 
 import android.arch.persistence.room.Room
 import android.support.test.InstrumentationRegistry
